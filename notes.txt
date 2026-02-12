@@ -38,3 +38,11 @@ git checkout branch_name
 The command used to upload changes to GitHub is:
 
 git push origin main
+----------------------------------------
+COMMIT HISTORY:
+
+commit 1afb59a76b4deefe2848e00418d67bee56512c73 (HEAD -> main)
+Author: Carlos <carlousds051005@gmail.com>
+Date:   Thu Feb 12 08:48:36 2026 -0600
+
+    Added notes for practice01
