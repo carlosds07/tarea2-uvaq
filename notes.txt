@@ -1,0 +1,48 @@
+PRACTICE 01
+
+1) What is a repository?
+A repository is a storage space where a project is kept. It contains all the files and the complete history of changes made to the project.
+
+2) What is git commit and what is its purpose?
+Git commit is a command that saves changes to the repository history.
+Its purpose is to record a snapshot of the project at a specific point in time.
+
+Command:
+git commit -m "message"
+
+3) What is git status and what is its purpose?
+Git status is a command that shows the current state of the working directory.
+Its purpose is to show modified files, staged files, and untracked files.
+
+Command:
+git status
+
+4) What is git log and what is its purpose?
+Git log is a command that shows the commit history of the repository.
+Its purpose is to display previous commits, author, date, and commit messages.
+
+Command:
+git log
+
+5) What are branches and what is their purpose?
+Branches are separate versions of a repository.
+Their purpose is to allow developers to work on features independently without affecting the main project.
+
+Command to create a branch:
+git branch branch_name
+
+Command to switch branch:
+git checkout branch_name
+
+6) What command should I use to upload changes to GitHub?
+The command used to upload changes to GitHub is:
+
+git push origin main
+----------------------------------------
+COMMIT HISTORY:
+
+commit 1afb59a76b4deefe2848e00418d67bee56512c73 (HEAD -> main)
+Author: Carlos <carlousds051005@gmail.com>
+Date:   Thu Feb 12 08:48:36 2026 -0600
+
+    Added notes for practice01
